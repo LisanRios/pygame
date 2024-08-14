@@ -3,6 +3,12 @@ import random
 #------------------------Variables temporales----------------------------
 #Son variables que dependen de otras clases/obejos/eventos que de manera temporal seran constantes por razones de prueba
 tiempoDeJuego = 22
+nivelRubi = [95, 99]
+nivelDiamante = [86, 94]
+nivelOro = [74, 86]
+nivelPlata = [64, 74]
+nivelBronce = [25, 64]
+
 
 #------------------------RELACION CON BASE DE DATOS----------------------
 #Son variables que estan en la base de datos que de manera temporal seran constantes por razones de prueba
@@ -11,16 +17,99 @@ positions = ["GK", "RB", "CB", "LB", "CDM", "CM", "CAM", "RW", "LW", "ST"]
 
 class JugadorDeFutbol:
     def __init__(self):
-        self.pace = self.numeroAleatorio(30, 99)
-        self.shooting = self.numeroAleatorio(30, 99)
-        self.passing = self.numeroAleatorio(30, 99)
-        self.dribbling = self.numeroAleatorio(30, 99)
-        self.defense = self.numeroAleatorio(30, 99)
-        self.physical = self.numeroAleatorio(30, 99)
+        self.pace = 0
+        self.shooting = 0
+        self.passing = 0
+        self.dribbling = 0
+        self.defense = 0
+        self.physical = 0
 
     def numeroAleatorio(self, min, max):
         return random.randint(min, max)
+    
+    def rango(self, rango):
+        return random.randint(rango[0], rango[1])
+
+    def saberStats(self, posicion):
+        great = [86, 99]
+        good = [65, 85]
+        poor = [25, 64]
         
+        stats = {
+            "GK": {
+                "pace": self.rango(great),
+                "shooting": self.rango(poor),
+                "passing": self.rango(great),
+                "dribbling": self.rango(poor),
+                "defense": self.rango(great),
+                "pphysical": self.rango(great),
+            },
+            "RB": {
+                "pace": self.rango(great),
+                "shooting": self.rango(poor),
+                "passing": self.rango(good),
+                "dribbling": self.rango(good),
+                "defense": self.rango(good),
+            },
+            "CB": {
+                "pace": self.rango(great),
+                "shooting": self.rango(poor),
+                "passing": self.rango(good),
+                "dribbling": self.rango(poor),
+                "defense": self.rango(great),
+            },
+            "LB": {
+                "pace": self.rango(great),
+                "shooting": self.rango(poor),
+                "passing": self.rango(good),
+                "dribbling": self.rango(good),
+                "defense": self.rango(good),
+            },
+            "CDM": {
+                "pace": self.rango(),
+                "shooting": self.rango(),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+            "CM": {
+                "pace": self.rango(),
+                "shooting": self.rango(),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+            "CAM": {
+                "pace": self.rango(),
+                "shooting": self.rango(),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+            "RW": {
+                "pace": self.rango(),
+                "shooting": self.rango(),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+            "LW": {
+                "pace": self.rango(),
+                "shooting": self.rango(),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+            "ST": {
+                "pace": self.rango(),
+                "shooting": self.rango(nivelDiamante),
+                "passing": self.rango(),
+                "dribbling": self.rango(),
+                "defense": self.rango(),
+            },
+        }
+        return stats[posicion]
+    
     def seleccionarPosicion(self):
         posicion = random.choice(positions)
         if posicion == "GK":
