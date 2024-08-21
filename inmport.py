@@ -64,7 +64,7 @@ def cargarEquipo():
     # Convertir la lista de jugadores a un DataFrame
     df = pd.json_normalize(players)
 
-    # Guardar el DataFrame en un archivo CSV
+    # Guardar el DataFrame en un archivo CSV.
     df.to_csv('data/players_data.csv', index=False)
     
 
