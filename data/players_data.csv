@@ -4,32 +4,31 @@ id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,con
 7966,Javier García,Goalkeeper,"Jan 29, 1987",37,['Argentina'],"1,80m",right,"Aug 20, 2020",Racing Club,"Dec 31, 2024",€25k,,
 860992,Nicolás Valentini,Centre-Back,"Apr 6, 2001",23,"['Argentina', 'Italy']","1,87m",left,"Jan 1, 2023",CA Boca Juniors II,"Dec 31, 2024",€6.00m,"Joining: ACF Fiorentina; date: Jan 1, 2025; fee: free transfer",
 334055,Nicolás Figal,Centre-Back,"Apr 3, 1994",30,['Argentina'],"1,80m",right,"Jan 24, 2022",Inter Miami CF,"Dec 31, 2027",€3.00m,,
-1145504,Aarón Anselmino,Centre-Back,"Apr 29, 2005",19,['Argentina'],"1,86m",right,"Aug 9, 2024",Chelsea FC,"Jun 30, 2025",€3.00m,"On loan from Chelsea FC until Jun 30, 2025","No eligibility - until Aug 25, 2024 - Copa Sudamericana - 1 matchday"
-93176,Marcos Rojo,Centre-Back,"Mar 20, 1990",34,['Argentina'],"1,86m",left,"Feb 2, 2021",Manchester United,"Dec 31, 2025",€1.20m,,Team captain; Calf muscle tear - Return unknown
-147128,Cristian Lema,Centre-Back,"Mar 24, 1990",34,['Argentina'],"1,91m",right,"Jan 8, 2024",Club Atlético Lanús,"Dec 31, 2025",€1.00m,,muscular problems - Return unknown
+1145504,Aarón Anselmino,Centre-Back,"Apr 29, 2005",19,['Argentina'],"1,86m",right,"Aug 9, 2024",Chelsea FC,"Jun 30, 2025",€3.00m,"On loan from Chelsea FC until Jun 30, 2025",
+93176,Marcos Rojo,Centre-Back,"Mar 20, 1990",34,['Argentina'],"1,86m",left,"Feb 2, 2021",Manchester United,"Dec 31, 2025",€1.20m,,Team captain
+147128,Cristian Lema,Centre-Back,"Mar 24, 1990",34,['Argentina'],"1,91m",right,"Jan 8, 2024",CA Lanús,"Dec 31, 2025",€1.00m,,
 1019744,Lautaro Di Lollo,Centre-Back,"Mar 10, 2004",20,"['Argentina', 'Italy']","1,87m",right,"Jan 1, 2024",CA Boca Juniors II,"Dec 31, 2028",€500k,,
 60889,Gary Medel,Centre-Back,"Aug 3, 1987",37,"['Chile', 'Spain']","1,71m",right,"Jun 13, 2024",Clube de Regatas Vasco da Gama,"Dec 31, 2025",€400k,"Joined from Clube de Regatas Vasco da Gama; date: Jun 13, 2024; fee: free transfer",
 831161,Lautaro Blanco,Left-Back,"Feb 19, 1999",25,['Argentina'],"1,76m",left,"Jan 31, 2024",Elche CF,"Dec 31, 2028",€4.00m,,
 373916,Marcelo Saracchi,Left-Back,"Apr 23, 1998",26,['Uruguay'],"1,72m",left,"Aug 2, 2023",Levante UD,"Dec 31, 2027",€1.30m,,
-156561,Frank Fabra,Left-Back,"Feb 22, 1991",33,"['Colombia', 'Argentina']","1,74m",left,"Jan 22, 2016",Independiente Medellín,"Dec 31, 2025",€500k,,strain - Return unknown
+156561,Frank Fabra,Left-Back,"Feb 22, 1991",33,"['Colombia', 'Argentina']","1,74m",left,"Jan 22, 2016",Independiente Medellín,"Dec 31, 2025",€500k,,
 503348,Lucas Blondel,Right-Back,"Sep 14, 1996",27,"['Argentina', 'Switzerland']","1,78m",right,"Jul 20, 2023",Club Atlético Tigre,"Dec 31, 2027",€2.50m,,"Cruciate ligament tear - Return expected on Nov 30, 2024"
 103890,Luis Advíncula,Right-Back,"Mar 2, 1990",34,"['Peru', 'Spain']","1,78m",right,"Jul 31, 2021",Rayo Vallecano,"Dec 31, 2026",€1.00m,,
 483446,Tomás Belmonte,Defensive Midfield,"May 27, 1998",26,"['Argentina', 'Italy']","1,81m",right,"Jul 1, 2024",Deportivo Toluca,"Dec 31, 2028",€5.00m,"Joined from Deportivo Toluca; date: Jul 1, 2024; fee: €3.55m",
-836518,Ignacio Miramón,Defensive Midfield,"Jun 12, 2003",21,"['Argentina', 'Italy']","1,73m",right,"Aug 14, 2024",LOSC Lille,"Dec 31, 2025",€2.50m,"On loan from LOSC Lille until Dec 31, 2025","No eligibility - until Aug 24, 2024 - Copa Sudamericana"
+836518,Ignacio Miramón,Defensive Midfield,"Jun 12, 2003",21,"['Argentina', 'Italy']","1,73m",right,"Aug 14, 2024",LOSC Lille,"Dec 31, 2025",€2.50m,"On loan from LOSC Lille until Dec 31, 2025",
 1055055,Mauricio Benítez,Defensive Midfield,"Feb 3, 2004",20,['Argentina'],"1,85m",right,"Jan 1, 2024",CA Boca Juniors II,"Dec 31, 2028",€500k,,
 661133,Cristian Medina,Central Midfield,"Jun 1, 2002",22,['Argentina'],"1,76m",right,"Sep 1, 2020",CA Boca Juniors II,"Dec 31, 2027",€10.00m,,
 1174943,Jabes Saralegui,Central Midfield,"Apr 12, 2003",21,['Argentina'],"1,81m",left,"Jan 1, 2024",CA Boca Juniors II,"Dec 31, 2028",€2.00m,,
 220647,Pol Fernández,Central Midfield,"Oct 11, 1991",32,['Argentina'],"1,76m",right,"Jan 30, 2022",CD Cruz Azul,"Dec 31, 2024",€1.50m,,
-190756,Juan Ramírez,Central Midfield,"May 25, 1993",31,['Argentina'],"1,73m",left,"Jul 30, 2021",CA San Lorenzo de Almagro,"Dec 31, 2026",€500k,,
+190756,Juan Ramírez,Central Midfield,"May 25, 1993",31,['Argentina'],"1,74m",left,"Jul 30, 2021",CA San Lorenzo de Almagro,"Dec 31, 2026",€500k,,
 829966,Kevin Zenón,Left Midfield,"Jul 30, 2001",23,"['Argentina', 'Syria']","1,77m",left,"Jan 22, 2024",CA Unión (Santa Fe),"Dec 31, 2028",€10.00m,,
 906748,Vicente Taborda,Attacking Midfield,"Jun 14, 2001",23,"['Argentina', 'Italy']","1,78m",right,"Aug 1, 2023",CA Boca Juniors II,"Dec 31, 2026",€2.00m,,
 732507,Agustín Martegani,Attacking Midfield,"May 20, 2000",24,"['Argentina', 'Italy']","1,82m",left,"Jul 29, 2024",CA San Lorenzo de Almagro,"Dec 31, 2028",€1.80m,"Joined from CA San Lorenzo de Almagro; date: Jul 29, 2024; fee: €2.40m",
 668549,Brian Aguirre,Left Winger,"Jan 6, 2003",21,['Argentina'],"1,78m",right,"Jul 7, 2024",CA Newell's Old Boys,"Dec 31, 2028",€7.00m,"Joined from CA Newell's Old Boys; date: Jul 7, 2024; fee: €4.60m",
 661132,Exequiel Zeballos,Left Winger,"Apr 24, 2002",22,['Argentina'],"1,70m",right,"Jul 1, 2020",CA Boca Juniors II,"Dec 31, 2026",€4.50m,,
-238448,Lucas Janson,Left Winger,"Aug 16, 1994",29,['Argentina'],"1,71m",right,"Jul 25, 2023",CA Vélez Sarsfield,"Jun 30, 2027",€1.70m,,
+238448,Lucas Janson,Left Winger,"Aug 16, 1994",30,['Argentina'],"1,71m",right,"Jul 25, 2023",CA Vélez Sarsfield,"Jun 30, 2027",€1.70m,,
 491706,Agustín Obando,Left Winger,"Mar 11, 2000",24,['Argentina'],"1,76m",left,"Jan 1, 2022",CA Boca Juniors II,"Dec 31, 2024",€150k,"Returned after loan spell with Club Atlético Platense; date: Jun 30, 2024; fee: End of loan",
 840919,Juan Ignacio Baiardino,Left Winger,"Sep 26, 1999",24,"['Argentina', 'Italy']","1,79m",right,"Jul 1, 2020",CA Boca Juniors II,"Dec 31, 2025",€25k,,
-457218,Norberto Briasco,Right Winger,"Feb 29, 1996",28,"['Armenia', 'Argentina']","1,86m",both,"Jul 1, 2021",CA Huracán,"Dec 31, 2025",€350k,,
 481367,Miguel Merentiel,Centre-Forward,"Feb 24, 1996",28,['Uruguay'],"1,76m",right,"Jan 1, 2024",Sociedade Esportiva Palmeiras,"Dec 31, 2027",€6.00m,,
 730779,Milton Giménez,Centre-Forward,"Aug 12, 1996",28,['Argentina'],"1,84m",right,"Jul 7, 2024",CA Banfield,"Dec 31, 2027",€1.80m,"Joined from CA Banfield; date: Jul 7, 2024; fee: €3.70m",
-48280,Edinson Cavani,Centre-Forward,"Feb 14, 1987",37,"['Uruguay', 'Italy']","1,84m",right,"Jul 29, 2023",Valencia CF,"Dec 31, 2024",€1.00m,,
+48280,Edinson Cavani,Centre-Forward,"Feb 14, 1987",37,"['Uruguay', 'Italy']","1,84m",right,"Jul 29, 2023",Valencia CF,"Dec 31, 2024",€1.00m,,Muscle injury - Return unknown

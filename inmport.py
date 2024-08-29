@@ -2,6 +2,19 @@ import requests
 import csv
 import pandas as pd
 import json
+from values import rendimiento, calcular_valor_jugador
+
+def convertir_valor(valor_str):
+    """
+    Convierte un valor de mercado de cadena de texto a un número flotante.
+    Ejemplos: "€1.00m" -> 1.0, "€150k" -> 0.15
+    """
+    if 'm' in valor_str:
+        return float(valor_str.replace('€', '').replace('m', ''))
+    elif 'k' in valor_str:
+        return float(valor_str.replace('€', '').replace('k', '')) / 1000
+    else:
+        return 0
 
 def cargarEquipo():
     # Obtener el nombre del equipo desde el usuario
@@ -54,18 +67,20 @@ def cargarEquipo():
 
     datos = response.json()
 
-    # Imprimir los datos para inspección
-    print("Datos de la respuesta para jugadores:")
-    print(datos)
-
     # Extraer la lista de jugadores
     players = datos["players"]
 
     # Convertir la lista de jugadores a un DataFrame
     df = pd.json_normalize(players)
 
+    # Convertir la columna 'marketValue' a un formato numérico
+    df['marketValue'] = df['marketValue'].apply(convertir_valor)
+
+    # Agregar las columnas "media" y "rendimiento"
+    df['rendimiento'] = df.apply(lambda row: rendimiento(), axis=1)
+    df['media'] = df.apply(lambda row: calcular_valor_jugador(row['marketValue'], row['rendimiento'], row['age']), axis=1)
+
     # Guardar el DataFrame en un archivo CSV.
     df.to_csv('data/players_data.csv', index=False)
-    
 
 cargarEquipo()
