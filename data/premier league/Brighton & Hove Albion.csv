@@ -1,0 +1,31 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,status,joined
+565093,Bart Verbruggen,Goalkeeper,"Aug 18, 2002",22,['Netherlands'],"1,94m",right,"Jul 3, 2023",RSC Anderlecht,"Jun 30, 2028",€18.00m,,
+73564,Jason Steele,Goalkeeper,"Aug 18, 1990",34,['England'],"1,88m",right,"Jul 1, 2018",Sunderland AFC,"Jun 30, 2026",€3.50m,,
+745716,Killian Cahill,Goalkeeper,"Nov 3, 2003",20,['Ireland'],,right,,,"Jun 30, 2025",,,
+212847,Adam Webster,Centre-Back,"Jan 4, 1995",29,['England'],"1,90m",right,"Aug 3, 2019",Bristol City,"Jun 30, 2026",€20.00m,,
+576314,Jan Paul van Hecke,Centre-Back,"Jun 8, 2000",24,['Netherlands'],"1,89m",right,"Sep 10, 2020",NAC Breda,"Jun 30, 2027",€18.00m,,
+380350,Igor,Centre-Back,"Feb 7, 1998",26,['Brazil'],"1,88m",left,"Jul 26, 2023",ACF Fiorentina,"Jun 30, 2027",€17.00m,,
+148153,Lewis Dunk,Centre-Back,"Nov 21, 1991",32,['England'],"1,92m",right,"Apr 30, 2010",: Ablöse -,"Jun 30, 2026",€12.00m,Team captain,
+580809,Ed Turns,Centre-Back,"Oct 18, 2002",21,"['Wales', 'England']","1,86m",left,"Jul 1, 2023",Brighton & Hove Albion U21,"Jun 30, 2025",€400k,,
+369316,Ferdi Kadıoğlu,Left-Back,"Oct 7, 1999",24,"['Türkiye', 'Netherlands']","1,74m",right,"Aug 27, 2024",Fenerbahce,"Jun 30, 2028",€30.00m,"unknown injury - Return expected on Sep 10, 2024","Joined from Fenerbahce; date: Aug 27, 2024; fee: €30.00m"
+349599,Pervis Estupiñán,Left-Back,"Jan 21, 1998",26,"['Ecuador', 'Spain']","1,75m",left,"Aug 16, 2022",Villarreal CF,"Jun 30, 2027",€30.00m,Ankle injury - Return unknown,
+565846,Imari Samuels,Left-Back,"Feb 5, 2003",21,"['England', 'Nigeria']","1,87m",left,"Jul 1, 2024",Brighton & Hove Albion U21,"Jun 30, 2025",€100k,,"Internal transfer: Brighton & Hove Albion U21; date: Jul 1, 2024"
+867688,Jack Hinshelwood,Right-Back,"Apr 11, 2005",19,['England'],"1,82m",right,"Jul 1, 2023",Brighton & Hove Albion U21,"Jun 30, 2028",€16.00m,,
+504148,Tariq Lamptey,Right-Back,"Sep 30, 2000",23,"['Ghana', 'England']","1,63m",right,"Jan 31, 2020",Chelsea FC U23,"Jun 30, 2025",€12.00m,,
+111195,Joël Veltman,Right-Back,"Jan 15, 1992",32,['Netherlands'],"1,84m",right,"Jul 29, 2020",Ajax Amsterdam,"Jun 30, 2025",€10.00m,,
+415381,Mats Wieffer,Defensive Midfield,"Nov 16, 1999",24,['Netherlands'],"1,88m",right,"Jul 5, 2024",Feyenoord Rotterdam,"Jun 30, 2029",€30.00m,,"Joined from Feyenoord Rotterdam; date: Jul 5, 2024; fee: €32.00m"
+973085,Carlos Baleba,Defensive Midfield,"Jan 3, 2004",20,['Cameroon'],"1,79m",left,"Aug 29, 2023",LOSC Lille,"Jun 30, 2028",€22.00m,,
+406634,Matt O'Riley,Central Midfield,"Nov 21, 2000",23,"['Denmark', 'England']","1,89m",left,"Aug 26, 2024",Celtic FC,"Jun 30, 2029",€20.00m,,"Joined from Celtic FC; date: Aug 26, 2024; fee: €29.50m"
+384461,Jakub Moder,Central Midfield,"Apr 7, 1999",25,['Poland'],"1,91m",right,"Oct 4, 2020",Lech Poznan,"Jun 30, 2025",€10.00m,,
+667287,Yasin Ayari,Central Midfield,"Oct 6, 2003",20,"['Sweden', 'Tunisia']","1,72m",right,"Jan 30, 2023",AIK,"Jun 30, 2027",€4.50m,,
+3333,James Milner,Central Midfield,"Jan 4, 1986",38,['England'],"1,75m",right,"Jul 1, 2023",Liverpool FC,"Jun 30, 2025",€1.00m,,
+660867,Julio Enciso,Attacking Midfield,"Jan 23, 2004",20,['Paraguay'],"1,73m",right,"Jul 1, 2022",Club Libertad Asunción,"Jun 30, 2026",€22.00m,,
+504849,Kaoru Mitoma,Left Winger,"May 20, 1997",27,['Japan'],"1,78m",right,"Aug 10, 2021",Kawasaki Frontale,"Jun 30, 2027",€45.00m,,
+658536,Simon Adingra,Right Winger,"Jan 1, 2002",22,"[""Cote d'Ivoire""]","1,75m",right,"Jul 1, 2022",FC Nordsjaelland,"Jun 30, 2026",€30.00m,,
+700106,Brajan Gruda,Right Winger,"May 31, 2004",20,"['Germany', 'Albania']","1,78m",left,"Aug 14, 2024",1.FSV Mainz 05,"Jun 30, 2028",€20.00m,,"Joined from 1.FSV Mainz 05; date: Aug 14, 2024; fee: €31.50m"
+209212,Solly March,Right Winger,"Jul 20, 1994",30,['England'],"1,80m",left,"Jul 1, 2013",Brighton & Hove Albion U18,"Jun 30, 2026",€18.00m,Knee injury - Return unknown,
+1012534,Yankuba Minteh,Right Winger,"Jul 22, 2004",20,['The Gambia'],"1,80m",left,"Jul 1, 2024",Newcastle United,"Jun 30, 2029",€16.00m,,"Joined from Newcastle United; date: Jul 1, 2024; fee: €35.00m"
+648046,Evan Ferguson,Centre-Forward,"Oct 19, 2004",19,['Ireland'],"1,88m",right,"Jul 1, 2022",Brighton & Hove Albion U21,"Jun 30, 2029",€50.00m,,
+626724,João Pedro,Centre-Forward,"Sep 26, 2001",22,['Brazil'],"1,88m",right,"Jul 1, 2023",Watford FC,"Jun 30, 2028",€45.00m,,
+538977,Georginio Rutter,Centre-Forward,"Apr 20, 2002",22,"['France', 'Martinique']","1,82m",left,"Aug 19, 2024",Leeds United,"Jun 30, 2028",€18.00m,,"Joined from Leeds United; date: Aug 19, 2024; fee: €46.70m"
+67063,Danny Welbeck,Centre-Forward,"Nov 26, 1990",33,"['England', 'Ghana']","1,85m",right,"Oct 18, 2020",Watford FC,"Jun 30, 2026",€5.00m,,

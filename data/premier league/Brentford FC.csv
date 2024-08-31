@@ -1,0 +1,30 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,joined,status
+125714,Mark Flekken,Goalkeeper,"Jun 13, 1993",31,['Netherlands'],"1,95m",both,"Jul 1, 2023",SC Freiburg,"Jun 30, 2027",€12.00m,,
+488935,Hákon Rafn Valdimarsson,Goalkeeper,"Oct 13, 2001",22,['Iceland'],"1,95m",right,"Jan 26, 2024",IF Elfsborg,"Jun 30, 2028",€2.50m,,
+741236,Matthew Cox,Goalkeeper,"May 2, 2003",21,['England'],"1,83m",right,"Jul 1, 2022",Brentford FC B,"Jun 30, 2028",€800k,,
+469050,Nathan Collins,Centre-Back,"Apr 30, 2001",23,['Ireland'],"1,93m",right,"Jul 4, 2023",Wolverhampton Wanderers,"Jun 30, 2029",€25.00m,,
+328658,Kristoffer Ajer,Centre-Back,"Apr 17, 1998",26,['Norway'],"1,98m",right,"Jul 21, 2021",Celtic FC,"Jun 30, 2028",€15.00m,,
+541231,Sepp van den Berg,Centre-Back,"Dec 20, 2001",22,['Netherlands'],"1,92m",right,"Aug 22, 2024",Liverpool FC,"Jun 30, 2029",€12.00m,"Joined from Liverpool FC; date: Aug 22, 2024; fee: €23.60m",
+442248,Ethan Pinnock,Centre-Back,"May 29, 1993",31,"['Jamaica', 'England']","1,94m",left,"Jul 2, 2019",Barnsley FC,"Jun 30, 2027",€12.00m,,
+74810,Ben Mee,Centre-Back,"Sep 21, 1989",34,['England'],"1,80m",left,"Jul 22, 2022",: Ablöse free transfer,"Jun 30, 2025",€1.00m,,
+709767,Ji-soo Kim,Centre-Back,"Dec 24, 2004",19,"['Korea, South']","1,92m",both,"Jul 1, 2024",Brentford FC B,"Jun 30, 2027",€600k,"Internal transfer: Brentford FC B; date: Jul 1, 2024",
+339556,Rico Henry,Left-Back,"Jul 8, 1997",27,"['England', 'Jamaica']","1,70m",left,"Aug 31, 2016",Walsall FC,"Jun 30, 2026",€20.00m,,
+954104,Jayden Meghoma,Left-Back,"Jun 28, 2006",18,"['England', 'Nigeria']","1,76m",,"Aug 30, 2024",Southampton FC U21,"Jun 30, 2028",,"Joined from Southampton FC U21; date: Aug 30, 2024; fee: €5.90m",
+591949,Aaron Hickey,Right-Back,"Jun 10, 2002",22,['Scotland'],"1,85m",both,"Jul 9, 2022",Bologna FC 1909,"Jun 30, 2026",€28.00m,,"Hamstring injury - Return expected on Sep 14, 2024"
+391005,Mads Roerslev,Right-Back,"Jun 24, 1999",25,['Denmark'],"1,84m",right,"Aug 7, 2019",: Ablöse ?,"Jun 30, 2026",€10.00m,,
+270171,Vitaly Janelt,Defensive Midfield,"May 10, 1998",26,['Germany'],"1,84m",left,"Oct 3, 2020",VfL Bochum,"Jun 30, 2026",€22.00m,,
+148367,Christian Nørgaard,Defensive Midfield,"Mar 10, 1994",30,['Denmark'],"1,87m",right,"Jul 1, 2019",: Ablöse €3.50m,"Jun 30, 2025",€18.00m,,Team captain
+1141628,Yunus Emre Konak,Defensive Midfield,"Jan 10, 2006",18,['Türkiye'],"1,81m",right,"Jan 11, 2024",Sivasspor,"Jun 30, 2029",€3.50m,,
+319859,Mathias Jensen,Central Midfield,"Jan 1, 1996",28,['Denmark'],"1,80m",right,"Jul 10, 2019",Celta de Vigo,"Jun 30, 2026",€28.00m,,
+340321,Josh Dasilva,Central Midfield,"Oct 23, 1998",25,"['England', 'Angola']","1,84m",left,"Aug 21, 2018",Arsenal FC U23,"Jun 30, 2025",€10.00m,,Knee surgery - Return unknown
+470596,Paris Maghoma,Central Midfield,"May 8, 2001",23,"['England', 'DR Congo']","1,84m",right,"Jul 1, 2022",Brentford FC B,"Jun 30, 2027",€350k,,
+874538,Ryan Trevitt,Central Midfield,"Mar 12, 2003",21,['England'],"1,7m",right,"Jul 1, 2023",Brentford FC B,"Jun 30, 2026",€275k,,
+559263,Fábio Carvalho,Attacking Midfield,"Aug 30, 2002",22,"['Portugal', 'England']","1,70m",right,"Aug 12, 2024",Liverpool FC,,€14.00m,"Joined from Liverpool FC; date: Aug 12, 2024; fee: €23.40m",
+717411,Yegor Yarmolyuk,Attacking Midfield,"Mar 1, 2004",20,['Ukraine'],"1,80m",right,"Jul 1, 2023",Brentford FC B,"Jun 30, 2028",€10.00m,,
+388165,Yoane Wissa,Left Winger,"Sep 3, 1996",27,"['DR Congo', 'France']","1,76m",right,"Aug 10, 2021",FC Lorient,"Jun 30, 2026",€28.00m,,
+473050,Kevin Schade,Left Winger,"Nov 27, 2001",22,"['Germany', 'Nigeria']","1,85m",right,"Jul 1, 2023",SC Freiburg,"Jun 30, 2028",€22.00m,,
+644401,Keane Lewis-Potter,Left Winger,"Feb 22, 2001",23,['England'],"1,70m",right,"Jul 12, 2022",Hull City,"Jun 30, 2028",€15.00m,,
+1086375,Gustavo Nunes,Left Winger,"Nov 20, 2005",18,['Brazil'],"1,73m",right,"Aug 28, 2024",Grêmio Foot-Ball Porto Alegrense,"Jun 30, 2030",€10.00m,"Joined from Grêmio Foot-Ball Porto Alegrense; date: Aug 28, 2024; fee: €12.00m",
+540941,Mikkel Damsgaard,Left Winger,"Jul 3, 2000",24,['Denmark'],"1,80m",right,"Aug 10, 2022",UC Sampdoria,"Jun 30, 2027",€10.00m,,
+413039,Bryan Mbeumo,Right Winger,"Aug 7, 1999",25,"['Cameroon', 'France']","1,71m",left,"Aug 5, 2019",ESTAC Troyes,"Jun 30, 2026",€40.00m,,
+739443,Igor Thiago,Centre-Forward,"Jun 26, 2001",23,"['Brazil', 'Bulgaria']","1,91m",right,"Jul 1, 2024",Club Brugge KV,"Jun 30, 2029",€25.00m,"Joined from Club Brugge KV; date: Jul 1, 2024; fee: €33.00m","Meniscus injury - Return expected on Dec 31, 2024"

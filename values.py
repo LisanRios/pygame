@@ -11,22 +11,28 @@ def rendimiento():
 
 def calcular_valor_jugador(precio, rendimiento, edad):
     # Calcula el valor del precio
-    valor_precio = (precio / 100) * 49 + 50
+    if precio < 3:
+        valor_precio = precio * 10 + 50
+    elif precio < 100:
+        valor_precio = precio
+    else:
+        valor_precio = (precio - 70) / 2 + 50
+    valor_precio = max(50, min(99, valor_precio))
     
     # Calcula el valor del rendimiento
     valor_rendimiento = (rendimiento / 6) * 49 + 50
     
     # Ajuste por edad
     if edad < 20:
-        ajuste_edad = 6
-    elif 20 <= edad <= 23:
         ajuste_edad = 4
+    elif 20 <= edad <= 23:
+        ajuste_edad = 3
     elif 24 <= edad <= 29:
         ajuste_edad = 2
     elif 30 <= edad <= 33:
-        ajuste_edad = 0
+        ajuste_edad = 1
     else:  # edad >= 34
-        ajuste_edad = -2
+        ajuste_edad = 0
     
     # Calcular el valor total
     valor_total = (valor_precio + valor_rendimiento) / 2 + ajuste_edad
@@ -37,11 +43,16 @@ def calcular_valor_jugador(precio, rendimiento, edad):
     # Redondear el valor total al número entero más cercano
     return round(valor_total)
 
+
 # Ejemplo de uso
-precio = 1  # Precio en millones de euros
+precio = 90  # Precio en millones de euros
 valor_rendimiento = rendimiento()
 print(f"El rendimiento del jugador es: {valor_rendimiento}")
 edad = 37  # Edad del jugador
 
 valor_calculado = calcular_valor_jugador(precio, valor_rendimiento, edad)
 print(f"El valor del jugador es: {valor_calculado}")
+
+
+
+

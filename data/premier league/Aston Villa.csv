@@ -1,0 +1,27 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,joined,status
+111873,Emiliano Martínez,Goalkeeper,"Sep 2, 1992",31,"['Argentina', 'Spain']","1,95m",right,"Sep 16, 2020",Arsenal FC,"Jun 30, 2029",€28.00m,,
+591844,Joe Gauci,Goalkeeper,"Jul 4, 2000",24,"['Australia', 'New Zealand']","1,94m",right,"Feb 1, 2024",Adelaide United,"Jun 30, 2028",€1.50m,,
+75458,Robin Olsen,Goalkeeper,"Jan 8, 1990",34,"['Sweden', 'Denmark']","1,96m",right,"Jul 1, 2022",AS Roma,"Jun 30, 2025",€1.50m,,
+399776,Pau Torres,Centre-Back,"Jan 16, 1997",27,['Spain'],"1,92m",left,"Jul 12, 2023",Villarreal CF,"Jun 30, 2028",€45.00m,,
+413403,Ezri Konsa,Centre-Back,"Oct 23, 1997",26,"['England', 'DR Congo']","1,83m",right,"Jul 11, 2019",Brentford FC,"Jun 30, 2028",€35.00m,,
+329145,Diego Carlos,Centre-Back,"Mar 15, 1993",31,"['Brazil', 'Spain']","1,85m",right,"Jul 1, 2022",Sevilla FC,"Jun 30, 2026",€16.00m,,
+253677,Tyrone Mings,Centre-Back,"Mar 13, 1993",31,['England'],"1,96m",left,"Jul 8, 2019",AFC Bournemouth,"Jun 30, 2026",€13.00m,,
+233124,Kortney Hause,Centre-Back,"Jul 16, 1995",29,"['England', 'Bermuda']","1,91m",left,"Jul 1, 2019",Wolverhampton Wanderers,"Jun 30, 2025",€2.00m,,
+645686,Lamare Bogarde,Centre-Back,"Jan 5, 2004",20,"['Netherlands', 'Suriname']","1,85m",right,"Jul 1, 2024",Aston Villa U21,,€450k,"Internal transfer: Aston Villa U21; date: Jul 1, 2024",
+485585,Ian Maatsen,Left-Back,"Mar 10, 2002",22,"['Netherlands', 'Suriname']","1,78m",left,"Jul 1, 2024",Chelsea FC,"Jun 30, 2030",€40.00m,"Joined from Chelsea FC; date: Jul 1, 2024; fee: €44.50m",
+126664,Lucas Digne,Left-Back,"Jul 20, 1993",31,['France'],"1,78m",left,"Jan 13, 2022",Everton FC,"Jun 30, 2026",€12.00m,,
+425334,Matty Cash,Right-Back,"Aug 7, 1997",27,"['Poland', 'England']","1,85m",right,"Sep 3, 2020",Nottingham Forest,"Jun 30, 2027",€28.00m,,
+848682,Kosta Nedeljkovic,Right-Back,"Dec 16, 2005",18,['Serbia'],"1,84m",right,"Jan 22, 2024",Red Star Belgrade,"Jun 30, 2029",€8.00m,"Returned after loan spell with Red Star Belgrade; date: Jun 30, 2024; fee: End of loan",
+485706,Amadou Onana,Defensive Midfield,"Aug 16, 2001",23,"['Belgium', 'Senegal']","1,95m",right,"Jul 22, 2024",Everton FC,"Jun 30, 2029",€50.00m,"Joined from Everton FC; date: Jul 22, 2024; fee: €59.35m",
+394327,Boubacar Kamara,Defensive Midfield,"Nov 23, 1999",24,"['France', 'Senegal']","1,84m",right,"Jul 1, 2022",Olympique Marseille,"Jun 30, 2027",€38.00m,,Knee injury - Return unknown
+168157,Leander Dendoncker,Defensive Midfield,"Apr 15, 1995",29,['Belgium'],"1,88m",right,"Sep 1, 2022",Wolverhampton Wanderers,"Jun 30, 2026",€7.00m,"Returned after loan spell with SSC Napoli; date: Jun 30, 2024; fee: End of loan",
+193116,John McGinn,Central Midfield,"Oct 18, 1994",29,['Scotland'],"1,78m",left,"Aug 8, 2018",Hibernian FC,"Jun 30, 2027",€30.00m,,Team captain
+249565,Youri Tielemans,Central Midfield,"May 7, 1997",27,"['Belgium', 'DR Congo']","1,77m",right,"Jul 1, 2023",Leicester City,"Jun 30, 2027",€25.00m,,
+131978,Ross Barkley,Central Midfield,"Dec 5, 1993",30,['England'],"1,89m",right,"Jul 1, 2024",Luton Town,,€8.00m,"Joined from Luton Town; date: Jul 1, 2024; fee: €5.90m",
+503749,Jacob Ramsey,Attacking Midfield,"May 28, 2001",23,['England'],"1,80m",right,"Jul 1, 2020",: Ablöse -,"Jun 30, 2027",€35.00m,,
+665390,Jaden Philogene,Left Winger,"Feb 8, 2002",22,"['England', 'Dominica']","1,81m",right,"Jul 19, 2024",Hull City,"Jun 30, 2029",€15.00m,"Joined from Hull City; date: Jul 19, 2024; fee: €16.00m",
+503743,Morgan Rogers,Left Winger,"Jul 26, 2002",22,['England'],"1,87m",right,"Feb 1, 2024",Middlesbrough FC,"Jun 30, 2029",€15.00m,,
+387626,Leon Bailey,Right Winger,"Aug 9, 1997",27,['Jamaica'],"1,78m",left,"Aug 4, 2021",Bayer 04 Leverkusen,"Jun 30, 2027",€42.00m,,
+321247,Emiliano Buendía,Right Winger,"Dec 25, 1996",27,"['Argentina', 'Spain']","1,72m",right,"Jul 1, 2021",: Ablöse €38.40m,"Jun 30, 2026",€22.00m,,Cruciate ligament tear - Return unknown
+324358,Ollie Watkins,Centre-Forward,"Dec 30, 1995",28,['England'],"1,80m",right,"Sep 9, 2020",Brentford FC,"Jun 30, 2028",€65.00m,,
+649317,Jhon Durán,Centre-Forward,"Dec 13, 2003",20,['Colombia'],"1,85m",left,"Jan 23, 2023",Chicago Fire FC,"Jun 30, 2028",€20.00m,,

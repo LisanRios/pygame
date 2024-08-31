@@ -1,0 +1,27 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,joined
+234811,Rui Silva,Goalkeeper,"Feb 7, 1994",30,['Portugal'],"1,91m",left,"Jul 1, 2021",Granada CF,"Jun 30, 2026",€8.00m,
+71271,Adrián,Goalkeeper,"Jan 3, 1987",37,['Spain'],"1,90m",right,"Jul 8, 2024",Liverpool FC,"Jun 30, 2026",€600k,"Joined from Liverpool FC; date: Jul 8, 2024; fee: free transfer"
+551182,Fran Vieites,Goalkeeper,"May 7, 1999",25,['Spain'],"1,96m",left,"Jul 1, 2024",Betis Deportivo Balompié,"Jun 30, 2026",€500k,"Internal transfer: Betis Deportivo Balompié; date: Jul 1, 2024"
+735568,Natan,Centre-Back,"Feb 6, 2001",23,['Brazil'],"1,88m",left,"Aug 15, 2024",SSC Napoli,"Jun 30, 2025",€12.00m,"On loan from SSC Napoli until Jun 30, 2025"
+246291,Diego Llorente,Centre-Back,"Aug 16, 1993",31,['Spain'],"1,86m",right,"Jul 9, 2024",Leeds United,"Jun 30, 2028",€7.00m,"Joined from Leeds United; date: Jul 9, 2024; fee: €3.25m"
+99922,Marc Bartra,Centre-Back,"Jan 15, 1991",33,['Spain'],"1,84m",right,"Jul 24, 2023",Trabzonspor,"Jun 30, 2025",€1.00m,
+318523,Romain Perraud,Left-Back,"Sep 22, 1997",26,['France'],"1,73m",left,"Jul 1, 2024",Southampton FC,"Jun 30, 2029",€5.00m,"Joined from Southampton FC; date: Jul 1, 2024; fee: €3.50m"
+86784,Ricardo Rodríguez,Left-Back,"Aug 25, 1992",32,"['Switzerland', 'Chile']","1,82m",left,"Aug 5, 2024",Torino FC,"Jun 30, 2026",€3.50m,"Joined from Torino FC; date: Aug 5, 2024; fee: free transfer"
+191217,Héctor Bellerín,Right-Back,"Mar 19, 1995",29,['Spain'],"1,78m",right,"Jul 18, 2023",Sporting CP,"Jun 30, 2028",€4.00m,
+135492,Youssouf Sabaly,Right-Back,"Mar 5, 1993",31,"['Senegal', 'France']","1,73m",right,"Jul 1, 2021",FC Girondins Bordeaux,"Jun 30, 2026",€2.50m,
+689505,Johnny Cardoso,Defensive Midfield,"Sep 20, 2001",22,"['United States', 'Italy']","1,86m",right,"Jan 1, 2024",Sport Club Internacional,"Jun 30, 2029",€25.00m,
+336869,Marc Roca,Defensive Midfield,"Nov 26, 1996",27,['Spain'],"1,84m",left,"Jul 1, 2024",Leeds United,"Jun 30, 2029",€9.00m,"Joined from Leeds United; date: Jul 1, 2024; fee: €4.50m"
+100131,William Carvalho,Defensive Midfield,"Apr 7, 1992",32,"['Portugal', 'Angola']","1,87m",right,"Jul 13, 2018",Sporting CP,"Jun 30, 2026",€3.00m,
+348795,Giovani Lo Celso,Central Midfield,"Apr 9, 1996",28,"['Argentina', 'Italy']","1,77m",left,"Aug 30, 2024",Tottenham Hotspur,"Jun 30, 2028",€16.00m,"Joined from Tottenham Hotspur; date: Aug 30, 2024; fee: €5.00m"
+466801,Sergi Altimira,Central Midfield,"Aug 25, 2001",23,['Spain'],"1,88m",right,"Aug 11, 2023",Getafe CF,"Jun 30, 2028",€2.50m,
+357885,Pablo Fornals,Attacking Midfield,"Feb 22, 1996",28,['Spain'],"1,78m",right,"Feb 1, 2024",West Ham United,"Jun 30, 2029",€14.00m,
+85288,Isco,Attacking Midfield,"Apr 21, 1992",32,['Spain'],"1,76m",right,"Jul 26, 2023",Without Club,"Jun 30, 2027",€8.00m,
+724520,Abde Ezzalzouli,Left Winger,"Dec 17, 2001",22,"['Morocco', 'Spain']","1,77m",right,"Sep 1, 2023",FC Barcelona,"Jun 30, 2028",€9.00m,
+126737,Juanmi,Left Winger,"May 20, 1993",31,['Spain'],"1,72m",right,"Jul 1, 2019",Real Sociedad,"Jun 30, 2026",€6.00m,"Returned after loan spell with Cádiz CF; date: Jun 30, 2024; fee: End of loan"
+1061282,Assane Diao,Right Winger,"Sep 7, 2005",18,"['Spain', 'Senegal']","1,85m",right,"Oct 1, 2023",Betis Deportivo Balompié,"Jun 30, 2027",€12.00m,
+378139,Aitor Ruibal,Right Winger,"Mar 22, 1996",28,['Spain'],"1,76m",right,"Jul 1, 2019",: Ablöse -,"Jun 30, 2025",€3.50m,
+630995,Rodri Sánchez,Right Winger,"May 16, 2000",24,['Spain'],"1,75m",left,"Jul 1, 2021",: Ablöse -,"Jun 30, 2028",€3.00m,
+632741,Iker Losada,Second Striker,"Aug 1, 2001",23,['Spain'],"1,75m",right,"Jul 6, 2024",Racing Ferrol,"Jun 30, 2029",€1.80m,"Joined from Racing Ferrol; date: Jul 6, 2024; fee: €1.80m"
+943837,Vitor Roque,Centre-Forward,"Feb 28, 2005",19,['Brazil'],"1,74m",right,"Aug 26, 2024",FC Barcelona,"Jun 30, 2025",€30.00m,"On loan from FC Barcelona until Jun 30, 2025"
+167721,Chimy Ávila,Centre-Forward,"Feb 6, 1994",30,"['Argentina', 'Spain']","1,72m",right,"Feb 1, 2024",CA Osasuna,"Jun 30, 2027",€3.00m,
+127048,Cédric Bakambu,Centre-Forward,"Apr 11, 1991",33,"['DR Congo', 'France']","1,82m",right,"Feb 1, 2024",Galatasaray,"Jun 30, 2026",€2.50m,

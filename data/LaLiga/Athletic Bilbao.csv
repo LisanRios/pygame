@@ -1,0 +1,27 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,status,joined
+262396,Unai Simón,Goalkeeper,"Jun 11, 1997",27,['Spain'],"1,90m",right,"Jul 1, 2018",Bilbao Athletic,"Jun 30, 2029",€30.00m,"Wrist injury - Return expected on Dec 1, 2024",
+625014,Julen Agirrezabala,Goalkeeper,"Dec 26, 2000",23,['Spain'],"1,87m",left,"Jul 1, 2022",Bilbao Athletic,"Jun 30, 2027",€5.00m,,
+834483,Álex Padilla,Goalkeeper,"Sep 1, 2003",20,"['Mexico', 'Spain']","1,90m",right,"Jul 1, 2024",Bilbao Athletic,"Jun 30, 2027",€200k,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2024"
+524000,Dani Vivian,Centre-Back,"Jul 5, 1999",25,['Spain'],"1,84m",right,"Aug 1, 2020",Bilbao Athletic,"Jun 30, 2032",€25.00m,,
+591916,Aitor Paredes,Centre-Back,"Apr 29, 2000",24,['Spain'],"1,85m",right,"Jul 1, 2022",Bilbao Athletic,"Jun 30, 2029",€22.00m,Calf injury - Return unknown,
+255488,Yeray Álvarez,Centre-Back,"Jan 24, 1995",29,['Spain'],"1,82m",right,"Jul 1, 2016",Bilbao Athletic,"Jun 30, 2026",€8.00m,,
+338285,Unai Núñez,Centre-Back,"Jan 30, 1997",27,['Spain'],"1,86m",right,"Aug 28, 2024",Celta de Vigo,"Jun 30, 2025",€7.00m,,"On loan from Celta de Vigo until Jun 30, 2025"
+61812,Yuri Berchiche,Left-Back,"Feb 10, 1990",34,"['Spain', 'Algeria']","1,81m",left,"Jul 2, 2018",Paris Saint-Germain,"Jun 30, 2025",€1.80m,Shoulder injury - Return unknown,
+710671,Adama Boiro,Left-Back,"Jun 22, 2002",22,"['Spain', 'Senegal']","1,83m",left,"Jul 1, 2024",Bilbao Athletic,"Jun 30, 2029",€400k,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2024"
+289255,Andoni Gorosabel,Right-Back,"Aug 4, 1996",28,['Spain'],"1,74m",right,"Jul 1, 2024",Deportivo Alavés,"Jun 30, 2028",€5.00m,,"Joined from Deportivo Alavés; date: Jul 1, 2024; fee: free transfer"
+255501,Iñigo Lekue,Right-Back,"May 4, 1993",31,['Spain'],"1,80m",right,"Jul 1, 2016",Bilbao Athletic,"Jun 30, 2025",€3.00m,,
+96718,Óscar de Marcos,Right-Back,"Apr 14, 1989",35,['Spain'],"1,82m",right,"Jul 1, 2009",: Ablöse €350k,"Jun 30, 2025",€1.50m,Team captain,
+300168,Mikel Vesga,Defensive Midfield,"Apr 8, 1993",31,['Spain'],"1,91m",left,"Jul 1, 2016",Bilbao Athletic,"Jun 30, 2027",€4.00m,,
+625047,Beñat Prados,Central Midfield,"Feb 8, 2001",23,['Spain'],"1,80m",right,"Jul 1, 2022",Bilbao Athletic,"Jun 30, 2031",€15.00m,,
+126751,Iñigo Ruiz de Galarreta,Central Midfield,"Aug 6, 1993",31,['Spain'],"1,75m",right,"Jul 1, 2023",RCD Mallorca,"Jun 30, 2025",€5.00m,Calf injury - Return unknown,
+99343,Ander Herrera,Central Midfield,"Aug 14, 1989",35,['Spain'],"1,82m",right,"Jan 31, 2023",Paris Saint-Germain,"Jun 30, 2025",€2.00m,,
+938729,Mikel Jauregizar,Central Midfield,"Nov 13, 2003",20,['Spain'],"1,77m",right,"Jul 1, 2024",Bilbao Athletic,"Jun 30, 2027",€800k,,"Internal transfer: Bilbao Athletic; date: Jul 1, 2024"
+571020,Oihan Sancet,Attacking Midfield,"Apr 25, 2000",24,['Spain'],"1,88m",right,"Aug 4, 2020",Bilbao Athletic,"Jun 30, 2032",€35.00m,,
+834752,Unai Gómez,Attacking Midfield,"May 25, 2003",21,['Spain'],"1,83m",left,"Jul 1, 2023",Bilbao Athletic,"Jun 30, 2028",€6.00m,,
+709187,Nico Williams,Left Winger,"Jul 12, 2002",22,"['Spain', 'Ghana']","1,81m",right,"Jul 1, 2021",Bilbao Athletic,"Jun 30, 2027",€70.00m,,
+671649,Álvaro Djaló,Left Winger,"Aug 16, 1999",25,"['Spain', 'Guinea-Bissau']","1,75m",right,"Jul 1, 2024",SC Braga,"Jun 30, 2029",€15.00m,,"Joined from SC Braga; date: Jul 1, 2024; fee: €15.00m"
+338425,Álex Berenguer,Left Winger,"Jul 4, 1995",29,['Spain'],"1,75m",right,"Oct 2, 2020",Torino FC,"Jun 30, 2027",€12.00m,,
+668183,Nico Serrano,Left Winger,"Mar 5, 2003",21,['Spain'],"1,76m",left,"Jul 1, 2022",Bilbao Athletic,"Jun 30, 2026",€1.40m,,"Returned after loan spell with Racing Ferrol; date: Jun 30, 2024; fee: End of loan"
+255508,Iñaki Williams,Right Winger,"Jun 15, 1994",30,"['Ghana', 'Spain']","1,86m",right,"Jul 1, 2015",Bilbao Athletic,"Jun 30, 2028",€25.00m,,
+340205,Gorka Guruzeta,Centre-Forward,"Sep 12, 1996",27,['Spain'],"1,88m",right,"Jul 3, 2022",SD Amorebieta,"Jun 30, 2028",€18.00m,,
+711394,Javier Martón,Centre-Forward,"May 6, 1999",25,['Spain'],"1,81m",right,"Jul 5, 2023",Real Sociedad B,"Jun 30, 2026",€500k,,"Returned after loan spell with CD Mirandés; date: Jun 30, 2024; fee: End of loan"

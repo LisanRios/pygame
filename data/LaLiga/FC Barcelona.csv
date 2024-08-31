@@ -1,0 +1,26 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,status,joined
+74857,Marc-André ter Stegen,Goalkeeper,"Apr 30, 1992",32,['Germany'],"1,87m",right,"Jul 1, 2014",Borussia Mönchengladbach,"Jun 30, 2028",€28.00m,Team captain,
+283170,Iñaki Peña,Goalkeeper,"Mar 2, 1999",25,['Spain'],"1,84m",right,"Jan 30, 2022",FC Barcelona B,"Jun 30, 2026",€8.00m,,
+709955,Ander Astralaga,Goalkeeper,"Mar 3, 2004",20,['Spain'],"1,90m",right,,,"Jun 30, 2026",€1.00m,,
+480267,Ronald Araujo,Centre-Back,"Mar 7, 1999",25,"['Uruguay', 'Spain']","1,92m",right,"Oct 5, 2020",FC Barcelona B,"Jun 30, 2026",€70.00m,"Hamstring injury - Return expected on Oct 1, 2024",
+196948,Andreas Christensen,Centre-Back,"Apr 10, 1996",28,['Denmark'],"1,87m",right,"Jul 4, 2022",Chelsea FC,"Jun 30, 2026",€40.00m,"Achilles tendon irritation - Return expected on Jan 1, 2025",
+962110,Pau Cubarsí,Centre-Back,"Jan 22, 2007",17,['Spain'],"1,84m",right,"Jan 1, 2024",FC Barcelona Atlètic,"Jun 30, 2027",€30.00m,,
+466794,Eric García,Centre-Back,"Jan 9, 2001",23,['Spain'],"1,82m",right,"Jul 1, 2021",Manchester City,"Jun 30, 2026",€20.00m,,"Returned after loan spell with Girona FC; date: Jun 30, 2024; fee: End of loan"
+158863,Iñigo Martínez,Centre-Back,"May 17, 1991",33,['Spain'],"1,82m",left,"Jul 5, 2023",Athletic Bilbao,"Jun 30, 2025",€5.00m,,
+636688,Alejandro Balde,Left-Back,"Oct 18, 2003",20,"['Spain', 'Dominican Republic']","1,75m",left,"Jul 1, 2022",FC Barcelona Atlètic,"Jun 30, 2028",€40.00m,,
+411975,Jules Koundé,Right-Back,"Nov 12, 1998",25,"['France', 'Benin']","1,80m",right,"Jul 28, 2022",Sevilla FC,"Jun 30, 2027",€45.00m,,
+937955,Héctor Fort,Right-Back,"Aug 2, 2006",18,['Spain'],"1,85m",right,"Jul 1, 2024",FC Barcelona Atlètic,"Jun 30, 2026",€10.00m,,"Internal transfer: FC Barcelona Atlètic; date: Jul 1, 2024"
+636695,Marc Casadó,Defensive Midfield,"Sep 14, 2003",20,['Spain'],"1,72m",right,"Jul 1, 2024",FC Barcelona Atlètic,"Jun 30, 2028",€2.50m,,"Internal transfer: FC Barcelona Atlètic; date: Jul 1, 2024"
+1018920,Marc Bernal,Defensive Midfield,"May 26, 2007",17,['Spain'],"1,91m",left,"Jul 1, 2024",FC Barcelona Atlètic,"Jun 30, 2026",€1.00m,"Cruciate ligament tear - Return expected on Jul 1, 2025","Internal transfer: FC Barcelona Atlètic; date: Jul 1, 2024"
+646740,Gavi,Central Midfield,"Aug 5, 2004",20,['Spain'],"1,73m",right,"Jul 1, 2021",FC Barcelona U19,"Jun 30, 2026",€90.00m,"Cruciate ligament tear - Return expected on Sep 15, 2024",
+683840,Pedri,Central Midfield,"Nov 25, 2002",21,['Spain'],"1,74m",right,"Sep 2, 2019",UD Las Palmas,"Jun 30, 2026",€80.00m,,
+326330,Frenkie de Jong,Central Midfield,"May 12, 1997",27,['Netherlands'],"1,81m",right,"Jul 1, 2019",Ajax Amsterdam,"Jun 30, 2026",€70.00m,Ankle injury - Return unknown,
+636703,Fermín López,Central Midfield,"May 11, 2003",21,['Spain'],"1,74m",right,"Jul 1, 2023",FC Barcelona Atlètic,"Jun 30, 2027",€30.00m,,
+293385,Dani Olmo,Attacking Midfield,"May 7, 1998",26,['Spain'],"1,79m",right,"Aug 9, 2024",RB Leipzig,"Jun 30, 2030",€60.00m,,"Joined from RB Leipzig; date: Aug 9, 2024; fee: €55.00m"
+720038,Pablo Torre,Attacking Midfield,"Apr 3, 2003",21,['Spain'],"1,73m",right,"Jul 1, 2022",Racing Santander,"Jun 30, 2026",€3.00m,,"Returned after loan spell with Girona FC; date: Jun 30, 2024; fee: End of loan"
+398184,Ferran Torres,Left Winger,"Feb 29, 2000",24,['Spain'],"1,84m",right,"Jan 1, 2022",Manchester City,"Jun 30, 2027",€30.00m,,
+466810,Ansu Fati,Left Winger,"Oct 31, 2002",21,"['Spain', 'Guinea-Bissau']","1,78m",right,"Sep 23, 2020",FC Barcelona B,"Jun 30, 2027",€25.00m,Foot injury - Return unknown,"Returned after loan spell with Brighton & Hove Albion; date: Jun 30, 2024; fee: End of loan"
+937958,Lamine Yamal,Right Winger,"Jul 13, 2007",17,"['Spain', 'Equatorial Guinea']","1,80m",left,"Jul 1, 2023",FC Barcelona U19,"Jun 30, 2026",€120.00m,,
+411295,Raphinha,Right Winger,"Dec 14, 1996",27,"['Brazil', 'Italy']","1,76m",left,"Jul 13, 2022",Leeds United,"Jun 30, 2027",€50.00m,,
+38253,Robert Lewandowski,Centre-Forward,"Aug 21, 1988",36,['Poland'],"1,85m",right,"Jul 19, 2022",Bayern Munich,"Jun 30, 2026",€15.00m,,
+707572,Pau Víctor,Centre-Forward,"Nov 26, 2001",22,['Spain'],"1,84m",right,"Jul 24, 2024",Girona FC,"Jun 30, 2029",€1.50m,,"Joined from Girona FC; date: Jul 24, 2024; fee: €2.70m"

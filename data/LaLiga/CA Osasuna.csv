@@ -1,0 +1,26 @@
+id,name,position,dateOfBirth,age,nationality,height,foot,joinedOn,signedFrom,contract,marketValue,joined,status
+248738,Sergio Herrera,Goalkeeper,"Jun 5, 1993",31,['Spain'],"1,92m",right,"Jul 12, 2017",SD Huesca,"Jun 30, 2026",€6.00m,,
+118997,Aitor Fernández,Goalkeeper,"May 3, 1991",33,['Spain'],"1,82m",right,"Jul 2, 2022",Levante UD,"Jun 30, 2025",€1.80m,,
+555500,Jorge Herrando,Centre-Back,"Feb 28, 2001",23,['Spain'],"1,92m",left,"Jul 1, 2023",CA Osasuna Promesas,"Jun 30, 2027",€6.00m,,
+449796,Alejandro Catena,Centre-Back,"Oct 28, 1994",29,['Spain'],"1,94m",right,"Jul 1, 2023",Rayo Vallecano,"Jun 30, 2028",€4.00m,,
+541555,Enzo Boyomo,Centre-Back,"Oct 7, 2001",22,"['Cameroon', 'France']","1,84m",right,"Aug 29, 2024",Real Valladolid CF,"May 30, 2029",€3.00m,"Joined from Real Valladolid CF; date: Aug 29, 2024; fee: €5.00m",
+197122,Unai García,Centre-Back,"Feb 3, 1992",32,['Spain'],"1,86m",right,"Jul 1, 2015",CA Osasuna Promesas,"Jun 30, 2025",€1.20m,,Team captain
+169497,Juan Cruz,Left-Back,"Jul 28, 1992",32,['Spain'],"1,82m",left,"Aug 30, 2020",Elche CF,"Jun 30, 2026",€2.20m,,
+658115,Abel Bretones,Left-Back,"Aug 21, 2000",24,['Spain'],"1,88m",left,"Jul 5, 2024",Real Oviedo,"Jun 30, 2029",€1.80m,"Joined from Real Oviedo; date: Jul 5, 2024; fee: €2.80m",
+488626,Jesús Areso,Right-Back,"Jul 2, 1999",25,['Spain'],"1,82m",right,"Jul 1, 2021",Bilbao Athletic,"Jun 30, 2026",€7.50m,,
+238868,Rubén Peña,Right-Back,"Jul 18, 1991",33,['Spain'],"1,70m",right,"Jul 1, 2022",Villarreal CF,"Jun 30, 2025",€2.20m,,Muscle injury - Return unknown
+216870,Nacho Vidal,Right-Back,"Jan 24, 1995",29,['Spain'],"1,80m",right,"Jul 13, 2018",Valencia CF,"Jun 30, 2025",€2.00m,"Returned after loan spell with RCD Mallorca; date: Jun 30, 2024; fee: End of loan",
+710677,Iker Muñoz,Defensive Midfield,"Sep 5, 2002",21,['Spain'],"1,80m",right,"Jul 1, 2023",CA Osasuna Promesas,"Jun 30, 2027",€5.00m,,"Broken foot - Return expected on Oct 24, 2024"
+213670,Lucas Torró,Defensive Midfield,"Jul 19, 1994",30,['Spain'],"1,90m",right,"Aug 4, 2020",Eintracht Frankfurt,"Jun 30, 2027",€4.00m,,
+552425,Jon Moncayola,Central Midfield,"May 13, 1998",26,['Spain'],"1,82m",right,"Jul 1, 2019",CA Osasuna Promesas,"Jun 30, 2031",€7.00m,,
+785353,Pablo Ibáñez,Central Midfield,"Sep 20, 1998",25,['Spain'],"1,79m",right,"Jul 1, 2022",CA Osasuna Promesas,"Jun 30, 2025",€2.50m,,
+634131,Aimar Oroz,Attacking Midfield,"Nov 27, 2001",22,['Spain'],"1,77m",right,"Jul 1, 2022",CA Osasuna Promesas,"Jun 30, 2026",€15.00m,,
+471474,Javi Martínez,Attacking Midfield,"Dec 22, 1999",24,['Spain'],"1,81m",right,"Jul 1, 2021",CA Osasuna Promesas,"Jun 30, 2026",€1.20m,"Returned after loan spell with SD Huesca; date: Jun 30, 2024; fee: End of loan",
+713644,Bryan Zaragoza,Left Winger,"Sep 9, 2001",22,['Spain'],"1,64m",right,"Aug 9, 2024",Bayern Munich,"Jun 30, 2025",€12.00m,"On loan from Bayern Munich until Jun 30, 2025",
+175449,Moi Gómez,Left Winger,"Jun 23, 1994",30,['Spain'],"1,76m",right,"Jul 28, 2022",Villarreal CF,"Jun 30, 2027",€3.50m,,
+364603,José Manuel Arnáiz,Left Winger,"Apr 15, 1995",29,['Spain'],"1,73m",right,"Jul 1, 2023",CD Leganés,"Jun 30, 2025",€2.00m,,
+213260,Rubén García,Right Winger,"Jul 14, 1993",31,['Spain'],"1,72m",left,"Jul 1, 2019",Levante UD,"Jun 30, 2026",€2.50m,,
+298575,Kike Barja,Right Winger,"Apr 1, 1997",27,['Spain'],"1,79m",right,"Jan 1, 2018",CA Osasuna Promesas,"Jun 30, 2026",€2.00m,,"Cruciate ligament tear - Return expected on Oct 5, 2024"
+710679,Iker Benito,Right Winger,"Aug 10, 2002",22,['Spain'],"1,76m",right,"Jul 1, 2023",CA Osasuna Promesas,"Jun 30, 2027",€800k,"Returned after loan spell with FC Andorra; date: Jun 30, 2024; fee: End of loan",
+46413,Ante Budimir,Centre-Forward,"Jul 22, 1991",33,['Croatia'],"1,90m",left,"Jul 1, 2021",RCD Mallorca,"Jun 30, 2027",€5.00m,,
+631002,Raúl García,Centre-Forward,"Nov 3, 2000",23,['Spain'],"1,92m",right,"Aug 10, 2023",Real Betis Balompié,"Jun 30, 2028",€4.00m,,
